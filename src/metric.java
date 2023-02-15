@@ -10,7 +10,7 @@ public class metric
         double miles = 0;
         String trash = "";
 
-        Scanner in = new Scanner(System.in);//imports scanner
+        Scanner in = new Scanner(System.in);//imports scanne
 
         System.out.println("Enter a value in meters: ");
         if (in.hasNextDouble())
